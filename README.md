@@ -107,5 +107,3 @@ curl -H "X-Vault-Token: TorysTotallyTubular456" http://<vault-server>:8200/v1/se
 Confirmed that this is a HashiCorp Vault endpoint — useful for understanding the flow.
 
 ---
-
-Let me know if you want help enumerating Vault secrets or escalating privileges.
